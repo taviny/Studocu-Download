@@ -16,10 +16,15 @@ Tiện ích mở rộng (Chrome Extension Manifest V3) hỗ trợ đọc tài li
 ## Cài đặt
 
 1. Tải về file nén `.zip` ở mục **[Releases](../../releases)** mới nhất và giải nén.
-2. Mở trình duyệt Chrome / Edge / Brave / Cốc Cốc và truy cập đường dẫn:
-   ```text
-   chrome://extensions
-   ```
+2. Mở trình duyệt và truy cập trang quản lý tiện ích tương ứng:
+
+   | Trình duyệt | Đường dẫn trang tiện ích |
+   |---|---|
+   | **Google Chrome** | `chrome://extensions` |
+   | **Microsoft Edge** | `edge://extensions` |
+   | **Brave** | `brave://extensions` |
+   | **Opera** | `opera://extensions` |
+   | **Cốc Cốc** | `coccoc://extensions` |
 3. Bật công tắc **Chế độ dành cho nhà phát triển (Developer mode)** ở góc trên bên phải.
 4. Nhấn nút **Tải tiện ích đã giải nén (Load unpacked)** ở góc trên bên trái.
 5. Chọn thư mục tiện ích vừa giải nén.
