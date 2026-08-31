@@ -1,0 +1,22 @@
+.sp-capturing * {
+  animation: none !important;
+  transition: none !important;
+}
+
+[class*="blur" i] {
+  filter: none !important;
+  backdrop-filter: none !important;
+}
+
+[class*="watermark" i],
+[class*="paywall" i],
+[class*="content-gate" i],
+[class*="upsell" i],
+[class*="lock-overlay" i] {
+  display: none !important;
+}
+
+* {
+  user-select: text !important;
+  -webkit-user-select: text !important;
+}
