@@ -63,3 +63,6 @@ Tiện ích mở rộng (Chrome Extension Manifest V3) hỗ trợ đọc tài li
 
 ---
 
+## ⚠️ Lưu ý (Disclaimer)
+
+Công cụ này được tạo ra với mục đích hỗ trợ học tập và nghiên cứu cá nhân. Vui lòng sử dụng có trách nhiệm và tôn trọng bản quyền của tài liệu gốc.
