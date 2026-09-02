@@ -1,4 +1,4 @@
-# Studocu Download
+# Studocu Extension
 
 Tiện ích mở rộng (Chrome Extension Manifest V3) hỗ trợ đọc tài liệu, gỡ mờ (unblur) và xuất tài liệu Studocu sang định dạng PDF A4 chất lượng cao.
 
